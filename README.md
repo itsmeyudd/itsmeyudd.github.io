@@ -1,6 +1,6 @@
 ___
 
-<a href="https://github.com/imYDH"><img src="https://cardivo.vercel.app/api?name=imYDH&description=Hi, i'm YUDHA and i'm just a newbie programmer nice to meet you all 🤗&image=https://avatars.githubusercontent.com/u/106510392?s=400&u=94cffba9bc99f16a61c98db8a6c9016f53dee38a&v=4)&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@yudhasandi._&github=imYDH&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/imtsmeyudd"><img src="https://cardivo.vercel.app/api?name=itsmeyudd&description=Hi, i'm YUDHA and i'm just a newbie programmer nice to meet you all 🤗&image=https://avatars.githubusercontent.com/u/106510392?s=400&u=94cffba9bc99f16a61c98db8a6c9016f53dee38a&v=4)&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@yudhasandi._&github=itsmeyudd&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/yudhasandi._)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=6285704347763&text&app_absent=0)
 
